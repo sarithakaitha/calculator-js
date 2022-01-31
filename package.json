@@ -1,0 +1,30 @@
+{
+  "name": "calculator",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarithakaitha/calculator-js.git"
+  },
+  "keywords": [
+    "Javascript",
+    "testing",
+    "jest"
+  ],
+  "author": "SarithaKaitha\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D\u001b[D",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sarithakaitha/calculator-js/issues"
+  },
+  "homepage": "https://github.com/sarithakaitha/calculator-js#readme",
+  "devDependencies": {
+    "@babel/cli": "^7.16.8",
+    "@babel/core": "^7.16.12",
+    "@babel/preset-env": "^7.16.11",
+    "jest": "^27.4.7"
+  }
+}
